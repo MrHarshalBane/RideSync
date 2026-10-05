@@ -1,7 +1,7 @@
 # 🏍️ RideSync - Real-Time Biker Group Ride Tracking System
 
 > **Full-Stack Web Application | MERN Stack | Socket.IO | Real-Time Telemetry & Off-Route Alerts**  
-> *Developed by Harshal Sane (Thakur College of Engineering & Technology - TCET, Mumbai)*
+> *Developed by Harshal Bane (Thakur College of Engineering & Technology - TCET, Mumbai)*
 
 ---
 
